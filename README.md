@@ -33,7 +33,7 @@ pip install bandit
   The command above is to verify this repo does have 17 Low
 
   The only error I can't fix is, Error: Could not extract Apple TV authorization token from webpage HTML.
-</div>
+<br>
  <p>
   Final Video can be in 
   <picture style="display: inline-block; vertical-align: middle;">
@@ -52,7 +52,3 @@ pip install bandit
     <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision_white.png" alt="Dolby Atmos & Vision" width="74" height="34" style="vertical-align: middle;">
   </picture>
 </p>
-<br>
-<br>
-  <br>
-  
