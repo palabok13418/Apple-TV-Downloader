@@ -20,6 +20,8 @@ usage: python bad37.py [-h] [--url URL_SEASON] [--tqdm] [--nv] [--na] [--ns] [--
 This repo is from https://github.com/TDenisM/APPLE-TV-4K-Downloader and https://github.com/weapon121/APPLE-TV-4K-Downloader (They are the same)
 
 They both have a 41 rating score for scanrepo.dev
+<img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/screenshots/Screenshot%202026-08-23%20015116.png">
+<img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/screenshots/Screenshot%202026-08-23%20020611.png">
 
 Scanned with bandit removed all High and Medium Severity things only leaving 17 Low
 
