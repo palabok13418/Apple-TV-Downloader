@@ -33,8 +33,7 @@ pip install bandit
   The command above is to verify this repo does have 17 Low
 
   The only error I can't fix is, Error: Could not extract Apple TV authorization token from webpage HTML.
-
-  Final VIdeo can be in 
+</div>
  <p>
   Final Video can be in 
   <picture style="display: inline-block; vertical-align: middle;">
