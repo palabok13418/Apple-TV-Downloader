@@ -6,7 +6,6 @@
 </div>
 
 ```
-
 usage: python bad37.py [-h] [--url URL_SEASON] [--tqdm] [--nv] [--na] [--ns] [--all-season] [-e EPISODESTART] [-s SEASON]
                 [--tag TAG] [-q CUSTOMQUALITY] [-o OUTPUT] [--keep] [--info] [--no-mux] [--only-2ch-audio]
                 [--alang [AUDIOLANG ...]] [--slang [SUBLANG ...]] [--flang [FORCEDLANG ...]] [--no-cleansubs] [--hevc]
