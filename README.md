@@ -34,7 +34,14 @@ pip install bandit
 
   The only error I can't fix is, Error: Could not extract Apple TV authorization token from webpage HTML.
 
-  Final VIdeo can be in <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/4k.png"> <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/hdr.png"> <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision.png" width="74.4" height="33.6">
+  Final VIdeo can be in <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/4k.png" width="36.8" height="20.8" class="make-white"> <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/hdr.png" width="48" height="20.8" class="make-white"> <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision.png" width="74.4" height="33.6" class="make-white">
+
+  <style>
+  .make-white {
+    /* Turns all non-transparent pixels completely white */
+    filter: brightness(0) invert(1);
+  }
+</style>
   
 <br>
 <br>
