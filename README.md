@@ -34,7 +34,25 @@ pip install bandit
 
   The only error I can't fix is, Error: Could not extract Apple TV authorization token from webpage HTML.
 
-  Final VIdeo can be in <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/4k_black.png" width="36.8" height="20.8"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/4k_white.png"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/hdr_black.png" width="48" height="20.8"> <source media= "(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/hdr_white.png"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision_black.png" width="74.4" height="33.6"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision_white.png"> </picture>
+  Final VIdeo can be in 
+ <p>
+  Final Video can be in 
+  <picture style="display: inline-block; vertical-align: middle;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/4k_black.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/4k_white.png">
+    <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/4k_white.png" alt="4K" width="37" height="21" style="vertical-align: middle;">
+  </picture>, 
+  <picture style="display: inline-block; vertical-align: middle;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/hdr_black.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/hdr_white.png">
+    <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/hdr_white.png" alt="HDR" width="48" height="21" style="vertical-align: middle;">
+  </picture>, 
+  <picture style="display: inline-block; vertical-align: middle;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision_black.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision_white.png">
+    <img src="https://raw.githubusercontent.com/palabok13418/Apple-TV-Downloader/refs/heads/main/photos/dolbyatmos_vision_white.png" alt="Dolby Atmos & Vision" width="74" height="34" style="vertical-align: middle;">
+  </picture>
+</p>
 <br>
 <br>
   <br>
