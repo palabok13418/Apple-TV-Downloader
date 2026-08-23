@@ -1,7 +1,7 @@
 
-# __APPLE TV 4K SDR/HDR/Dolby Vision & Atmos Downloader__
+# __Apple TV 4K SDR/HDR/Dolby Vision & Atmos Downloader__
 
- <div size='20px'> Tool To download 4K HDR DV SDR from Apple TV
+ <div size='20px'> A Tool To download 4K HDR DV SDR from Apple TV
 </div>
 
 ```
